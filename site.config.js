@@ -8,8 +8,8 @@ module.exports = {
 
   // basic site info (required)
   name: 'Quite A Boring Blog',
-  domain: 'blog.qilil.com',
-  author: 'Leo Weng',
+  domain: 'blog.holiport.org',
+  author: 'Holiport',
 
   // open graph metadata (optional)
   description: 'Basic Talking About My Life And Some Bullshit',
@@ -17,7 +17,7 @@ module.exports = {
   socialImageSubtitle: 'Hello This Fucking World! 👋',
 
   // social usernames (optional)
-  twitter: 'Leoweng2021',
+  twitter: 'Holiport',
   github: 'tmymy',
   linkedin: 'nope',
 
