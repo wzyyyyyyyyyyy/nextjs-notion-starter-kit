@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Quite A Boring Blog',
+  name: 'HoliPort Offical Blog',
   domain: 'blog.holiport.org',
   author: 'Holiport',
 
   // open graph metadata (optional)
-  description: 'Basic Talking About My Life And Some Bullshit',
+  description: 'Basically Talking About HoliPort',
   socialImageTitle: 'I Love You!!!',
   socialImageSubtitle: 'Hello This Fucking World! 👋',
 
